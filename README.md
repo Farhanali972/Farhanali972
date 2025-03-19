@@ -1,6 +1,6 @@
 # About Me
 
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm [Farhan Ali]
 
 Welcome to my profile! I'm passionate about [your interests or profession], and I love to [what you enjoy doing, e.g., coding, designing, writing].
 
