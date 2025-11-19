@@ -1,39 +1,46 @@
 # About Me
 
-## 👋 Hi there! I'm [Farhan Ali]
+Hi! I’m Farhan Ali, a passionate Web Designer & Front-End Developer.
+I specialize in creating modern, responsive, and clean websites that not only look beautiful but also deliver a smooth user experience.
 
-Welcome to my profile! I'm passionate about [your interests or profession], and I love to [what you enjoy doing, e.g., coding, designing, writing].
+🔥 What I Can Do for You
 
-## 🔧 Technologies & Tools
+Fully responsive website design
 
-- **Languages**: [List your programming languages or tools you use, e.g., JavaScript, Python, etc.]
-- **Frameworks**: [List frameworks you're familiar with, e.g., React, Django, etc.]
-- **Tools**: [List any tools you frequently use, e.g., Git, Docker, etc.]
+Landing page / business website
 
-## 🌱 Current Learning Goals
+Portfolio website
 
-I’m currently learning [what you’re currently studying or working on], and I’m excited to expand my skills in [related areas].
+Redesign or fix existing website
 
-## 💬 Connect with Me
+Figma to HTML
 
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Twitter**: [Your Twitter Profile URL]
-- **Email**: [Your Email Address]
+Custom UI/UX design
 
-## 📝 Projects
+🛠 My Skills
 
-Here are a few projects I’m proud of:
+HTML | CSS | JavaScript
 
-1. **[Project Name](Project URL)**: A brief description of what the project does.
-2. **[Project Name](Project URL)**: A brief description of what the project does.
-3. **[Project Name](Project URL)**: A brief description of what the project does.
+Bootstrap / Tailwind CSS
 
-Feel free to explore and give feedback!
+Figma / Canva
 
-## 🎉 Fun Facts
+Responsive & Mobile-Friendly Design
 
-- I enjoy [a hobby or interest].
-- I love to [another personal detail or hobby].
-- A fun fact about me: [something interesting about you].
+Modern UI/UX Styling
 
-Thank you for visiting my profile!
+🌟 Why Work With Me?
+
+Fast communication
+
+Pixel-perfect design
+
+On-time delivery
+
+100% client satisfaction
+
+Clean and professional code
+
+I’m currently enhancing my skills through an IT & Web Designing course, so I bring both fresh creativity and updated modern standards to every project.
+
+📩 Let’s work together and create something amazing!
